@@ -1,0 +1,3 @@
+module ATmega2560 {
+  export *
+}
